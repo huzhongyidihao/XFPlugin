@@ -1,0 +1,14 @@
+/NOLOGO
+/errorReport:prompt
+/MACHINE:x64
+/SUBSYSTEM:WINDOWS
+/DEF
+/NAME:"UE4Editor-firpl.dll"
+/IGNORE:4221
+/NODEFAULTLIB
+"F:\UE418\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\Engine\SharedPCH.Engine.h.obj"
+"I:\UE4模型\firpl\HostProject\Plugins\firpl\Intermediate\Build\Win64\UE4Editor\Development\firpl\Module.firpl.cpp.obj"
+"I:\UE4模型\firpl\HostProject\Plugins\firpl\Intermediate\Build\Win64\UE4Editor\Development\firpl\Module.firpl.gen.cpp.obj"
+"F:\UE418\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\firpl\PCLaunch.rc.res"
+"F:\UE418\UE_4.18\Engine\Intermediate\Build\Win64\UE4Editor\Development\ModuleVersionResource.rc.inl.res"
+/OUT:"I:\UE4模型\firpl\HostProject\Plugins\firpl\Intermediate\Build\Win64\UE4Editor\Development\UE4Editor-firpl.lib"
